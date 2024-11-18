@@ -1,4 +1,4 @@
-__author__ = "8568922, Wolff"
+
 
 import turtle
 import time
